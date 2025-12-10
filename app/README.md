@@ -4,6 +4,8 @@
 
 VowSuite is a premium, white-label SaaS solution designed for wedding planners to scale their business. It replaces scattered emails and spreadsheets with a centralised digital hub, offering a personalised app experience for every couple and a powerful management dashboard for the planner.
 
+<img width="2764" height="1490" alt="image" src="https://github.com/user-attachments/assets/e778480c-d180-4a2f-926e-d53752b22426" />
+
 ##  Key Features
 
 ###  Planner Dashboard
